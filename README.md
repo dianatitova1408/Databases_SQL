@@ -1,5 +1,6 @@
 # Part 1.
 Analysis of airplane dataset: https://postgrespro.com/education/demodb 
+
 Tasks for Part 1: 
 1. Empty plane
 How many seats on average are free on a flight?
@@ -14,7 +15,10 @@ What are the names of the passengers who flew on the flight with the most delay 
 What are the top 10 airports by the average price of the flight ticket divided by flight duration?
 
 # Part 2
-Creation of database with followng conditions.
+Creation of database with followIng conditions.
+
+
+
 Band
 
 band_id (TEXT / UUID) — primary key
@@ -45,7 +49,9 @@ band_id — references Band.band_id
 started_at (DATE / INTEGER)
 finished_at (DATE / INTEGER)
 instrument (TEXT)
-Restrictions should be following:
+
+
+**Restrictions should be following:**
 
 If anyone deletes any band, all the corresponding data should be deleted with cascade method.
 No one can delete any musician while there is at least one corresponding record exists in any other table.
