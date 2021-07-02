@@ -1,5 +1,6 @@
-# Part 1 - analysis of airplane dataset: . 
-Tasks for Part 1: https://postgrespro.com/education/demodb
+# Part 1.
+Analysis of airplane dataset: https://postgrespro.com/education/demodb 
+Tasks for Part 1: 
 1. Empty plane
 How many seats on average are free on a flight?
 
@@ -12,7 +13,8 @@ What are the names of the passengers who flew on the flight with the most delay 
 4. It's OK to be rich...
 What are the top 10 airports by the average price of the flight ticket divided by flight duration?
 
-# Part 2 - creation of database with followng conditions.
+# Part 2
+Creation of database with followng conditions.
 Band
 
 band_id (TEXT / UUID) — primary key
