@@ -2,6 +2,8 @@
 Analysis of airplane dataset: https://postgrespro.com/education/demodb 
 
 Tasks for Part 1: 
+
+
 **1. Empty plane**
 
 
